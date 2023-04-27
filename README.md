@@ -17,6 +17,6 @@ In this project I have created a deep learning regression model that predicts th
 
 ### Outcomes
 
-Model I have developed, has achived satisfactory results at the level of `R^2 Score = 0.82`. With relatively low `Mean Squared Error = 0.0042` as well as `Mean Absolute Error = 0.0523`.
+Model I developed, has achived satisfactory results at the level of `R^2 Score = 0.82`. With relatively low `Mean Squared Error = 0.0042` as well as `Mean Absolute Error = 0.0523`.
 
 
